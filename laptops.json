@@ -1,3 +1,5 @@
 [
-{"PNAME":"Test", "GNAME":"Gname test", "COST":"100", "MSRP":"200", "QNTY":"1", "BACKQNTY":"5", "DESC":"ok", "BRAND":"ASUS"}
+{"PNAME":"Test", "GNAME":"Gname test", "COST":"100", "MSRP":"200", "QNTY":"1", "BACKQNTY":"5", "DESC":"ok", "BRAND":"ASUS"},
+  {"PNAME":"Test2", "GNAME":"Gname test2", "COST":"1002", "MSRP":"2002", "QNTY":"12", "BACKQNTY":"25", "DESC":"ok2", "BRAND":"ASUS2"}
+  
 ]

@@ -1,5 +1,5 @@
 [
-{"PNAME":"ASUS ZenBook Pro UX501VW", "ID":"123456789123456", "GNAME":"ZenbookUx.png", "MSRP":"1849.99", "QNTY":"10", "BACKQNTY":"3", "DESC":"Intel core I7-6700HQ Quad-core processor, 16GB RAM, 512GB SSD", "BRAND":"ASUS"},
+{"PNAME":"ASUS ZenBook Pro UX501VW", "ID":"123456789133456", "GNAME":"ZenbookUx.png", "MSRP":"1849.99", "QNTY":"10", "BACKQNTY":"3", "DESC":"Intel core I7-6700HQ Quad-core processor, 16GB RAM, 512GB SSD", "BRAND":"ASUS"},
 {"PNAME":"ASUS G752VS-XB72K ROG", "ID":"123456789123457", "GNAME":"AsusROG.jpg.", "MSRP":"3199.99", "QNTY":"3", "BACKQNTY":"1", "DESC":"Intel Core 17-6820hk processor, Nvidia GTX 1070 Graphics card, 32GB RAM, 1TB HDD", "BRAND":"ASUS"},
   {"PNAME":"ASUS ROG Strix GL702VM-DB74", "ID":"123456789123458", "GNAME":"AsusStrix.jpg", "MSRP":"2651.70", "QNTY":"5", "BACKQNTY":"4", "DESC":"Intel Core I7-6700hq processor, Nvidia Gtc 1060 Graphics card, 16Gb RAM, 1TB HDD", "BRAND":"ASUS"},
  {"PNAME":"ASUS K501UW-AB78", "ID":"123456789123459", "GNAME":"AsusK501.jpg", "MSRP":"1618.66", "QNTY":"15", "BACKQNTY":"2", "DESC":"Intel core I7-6500U processor, Nvidia Gtx 960m, 8GB RAM, 512GB SSD", "BRAND":"ASUS"},

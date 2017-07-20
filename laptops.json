@@ -8,7 +8,7 @@
     {"PNAME":"Dell Inspiron 15 i5555-2866SLV", "ID":"123456789123462", "GNAME":"Dellinspiron.jpg", "MSRP":"799.99", "QNTY":"10", "BACKQNTY":"5", "DESC":"AMD A10-8700P processor, 8GB RAM, 1TB HDD", "BRAND":"Dell"},
     {"PNAME":"Dell i3168-0028BLU", "ID":"123456789123463", "GNAME":"Delli316.jpg", "MSRP":"381.70", "QNTY":"34", "BACKQNTY":"21", "DESC":"Intel Celeron N3060 processor, 2GB RAM, 32GB SSD", "BRAND":"Dell"},
     {"PNAME":"Dell Inspiron 15 5000", "ID":"123456789123464", "GNAME":"DellInspiron15.jpg", "MSRP":"976.73", "QNTY":"12", "BACKQNTY":"1", "DESC":"Intel core I7-6200U processor, 8GB RAM, 1TB HDD", "BRAND":"Dell"},
-    {"PNAME":"Dell Inspiron i7559-763BLK", "ID":"123456789123465", "GNAME":"DellInspironi7559.jpg", "MSRP":"1185.77", "QNTY":"75", "BACKQNTY":"20", "DESC":"Intel core I5-6200HQ processor, 4GB RAM, 246GB SSD", "BRAND":"Dell"},
+    {"PNAME":"Dell Inspiron i7559-763BLK", "ID":"123456789123465", "GNAME":"DellInspiron559.jpg", "MSRP":"1185.77", "QNTY":"75", "BACKQNTY":"20", "DESC":"Intel core I5-6200HQ processor, 4GB RAM, 246GB SSD", "BRAND":"Dell"},
     {"PNAME":"HP Stream", "ID":"123456789123466", "GNAME":"HpStream.jpg", "MSRP":"299.99", "QNTY":"12", "BACKQNTY":"1", "DESC":"Intel celeron N3060 processor, 4GB RAM, 32GB HDD", "BRAND":"HP"},
    {"PNAME":"HP Business Chromebook V2W30UT", "ID":"123456789123467", "GNAME":"HpBusiness.jpg", "MSRP":"199.77", "QNTY":"144", "BACKQNTY":"143", "DESC":"Intel celeron N2840 processor, 4GB RAM, 32GB SSD", "BRAND":"HP"},
    {"PNAME":"HP Omen", "ID":"123456789123468", "GNAME":"HpOmen.jpg", "MSRP":"1399.00", "QNTY":"15", "BACKQNTY":"9", "DESC":"Intel core i7-6700HQ processor, Nvidia GTX 960m Graphics card 12GB RAM, 1TB HDD", "BRAND":"HP"},
